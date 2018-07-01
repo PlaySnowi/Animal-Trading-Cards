@@ -1,1 +1,48 @@
 /* add your CSS here */
+.card-image {
+  border-radius: 30px;
+  width: 300px;
+  border-style: hidden;
+  padding-bottom: 10px;
+}
+
+.interesting-fact{
+  font-style: italic;
+}
+
+.fact-label {
+  font-weight: bold;
+}
+
+.facts-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.card-title {
+  border-style: hidden;
+  padding: 1px;
+  font-size: 20px;
+}
+
+.container {
+  border-radius: 30px;
+  border-width: thin solid #d9d9d9;
+  box-shadow: 6px 6px #e9eae9;
+  padding: 10px;
+  width: 300px;
+  font-size: 15px;
+  background-color: #FAEBD7;
+}
+
+.information {
+  border-radius: 30px;
+  border: thin solid #d9d9d9;
+  padding: 0px 10px 10px;
+}
+
+.scientific-name {
+  font-style: italic;
+  font-weight: normal;
+}
